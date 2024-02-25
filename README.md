@@ -1,1 +1,1 @@
-# IT002-OOP
+# IT002 - Object Oriented Programming
